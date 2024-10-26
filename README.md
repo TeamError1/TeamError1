@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+	<h3>اقتباس ملهم</h3>
+	<p><strong>"يجب على الجميع تعلم البرمجة؛ لأنها تعلمك كيف تفكر."</strong></p>
+	<p>— ستيف جوبز</p>
+</div>
 
-<!--
-**TeamError1/TeamError1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ما الذي أفعله
 
-Here are some ideas to get you started:
+- 🔭 العمل على تطوير المواقع 
+- 🌱 تعلم Node.js والمزيد
+- 🌟 "التعلم هو مفتاح النجاح، فلنستمر في الاستكشاف وبناء المستقبل معًا!" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## اللغات والأدوات
+
+<p align="center"> 
+	<a href="https://github.com/TeamError1"> 
+		<img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,laravel,bootstrap,flutter,sublime,webstorm,phpstorm,figma,python,postman,react,vscodium,windows,redhat,wordpress,postgres,mysql,neovim,mint,kali,heroku"> 
+	</a> 
+</p>
